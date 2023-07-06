@@ -47,7 +47,7 @@ function App() {
         <input
         className='input'
           type="text"
-          placeholder="Search Pokémon by ID or Name"
+          placeholder="Search Pokemon Name"
           value={searchTerm}
           onChange={handleSearchChange}
         />
